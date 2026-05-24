@@ -1,0 +1,43 @@
+.body{
+  font-family: Arial, sans-serif;
+ 
+  color: #333;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 20px;
+
+}
+.container{
+  background-color: #f1f9f5;
+  
+.heading{
+  display: inline-block;
+  padding: 10px;
+  background-color: lightblue;
+  text-align: center;
+  width: 97.5%;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  line-height: 0.25;
+  border-bottom: 2px solid black;
+}
+.heading p{
+  text-transform: capitalize;
+  font-size: 18px;
+  padding-left: 150px
+}
+h4{
+  font-size: 25px;
+  line-height: 1.6;
+  text-align: center;
+}
+.image{
+  display: block;
+  margin: 20px auto;
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
+.copyright{
+  font-size: 10px;
+}
