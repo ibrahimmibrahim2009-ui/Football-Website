@@ -9,3 +9,4 @@ This is a simple football website that displays my opinion about football and it
 ## How I Made It
 I built this project using:
 HTML: For structuring the website content.
+CSS: For editing the background, image dimenstions, and font.
